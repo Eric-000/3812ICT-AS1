@@ -3,6 +3,8 @@ This is a real-time chat application build with angular(frontend) and node.js(in
 # Organization
 Running node server.js to start backend on port:3000, and running ng serve in the frontend command to load the app on port:4200.
 # Structures
+## git ignore
+avioding to add node_modules when pushing code.
 ## Server.js
 using the Express.js framework, along with the 'cors' middleware and 'http' module for creating an HTTP.
 ## Socket.js
